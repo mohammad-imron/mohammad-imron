@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammad-imron
 - 👀 I’m interested in analytics, web development, task-automation, and agile methodologies 
-- 🌱 I’m currently learning on web development  
+- 🌱 I’m currently learning on web development, AI project cycle, and backend programming  
 - 💞️ I’m looking to collaborate on various project related above topics
 - 📫 You can reach me on : imron@imronreefai.com
 
